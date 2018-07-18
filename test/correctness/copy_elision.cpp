@@ -294,7 +294,7 @@ int test_8() {
 }  // namespace
 
 int main(int argc, char **argv) {
-    /*printf("Running copy elision test 0\n");
+    printf("Running copy elision test 0\n");
     if (test_0() != 0) {
         return -1;
     }
@@ -327,7 +327,7 @@ int main(int argc, char **argv) {
     printf("Running copy elision test 6\n");
     if (test_6() != 0) {
         return -1;
-    }*/
+    }
 
     /*printf("Running copy elision test 7\n");
     if (test_7() != 0) {
